@@ -1,6 +1,6 @@
 #### Submitted
 
-* test1 \[\[Code]]
+* test1 \[\[Code]](note/d2d\_gamma\_EDM.pdf)
 
 #### Published
 
